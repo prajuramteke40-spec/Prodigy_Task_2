@@ -28,7 +28,6 @@ The model successfully grouped the data into 5 distinct customer segments.
 **1. Determining K (The Elbow Method):**
 The graph below demonstrates the Elbow Method. The curve bends or "elbows" at `K=5`, indicating that 5 is the optimal number of clusters for this dataset.
 
-**2. Customer Clusters:**
 
 
 ### 🚀 How to Run the Project
